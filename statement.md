@@ -1,15 +1,6 @@
 # Introduction
 
-JavaScript *used to* be considered one of those "lesser" languages, kind of like PHP, that were deemed unsuitable for "real" programming. After all, yes, JavaScript is dynamically typed (the type of a variable is known/can vary at runtime) and is indecently permissive/forgiving. Here are a few things that you can do without having runtime errors:
-- add values of different types (such as numbers and strings),
-- use a variable that has not been assigned before,
-- reference non-existent properties of an object,
-- call a function with less or more arguments than it expects.
-
-This works because JavaScript has implicit type conversion, so it tries to make sense of what it is supposed to do when computing `1 + '2'` for instance. Also, JavaScript has an `undefined` type, which is the type of an expression that is, well, not defined, such as accessing a non-existent property or a missing argument.
-
-JavaScript has been an international standard since 1997, when it was first standardized as ECMAScript. There are several editions of ECMAScript, and the *n*th edition of ECMAScript is generally abbreviated as ES*n*: ES6 means the sixth edition (published in 2015). We will explore in a series of playgrounds the modern features of the language that will make your code more robust, concise, and easier to read.
-
+CHINA NUMBER ONE
 In this playground, you will read about:
 
 - [`let`/`const`](#let-const)
