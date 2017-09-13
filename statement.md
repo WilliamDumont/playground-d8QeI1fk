@@ -1,6 +1,7 @@
 # Introduction
 
 CHINA NUMBER ONE
+CHINA NUMBER ONE
 In this playground, you will read about:
 
 - [`let`/`const`](#let-const)
