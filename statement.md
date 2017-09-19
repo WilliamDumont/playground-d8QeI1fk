@@ -15,9 +15,6 @@ In this playground, you will read about:
 
 Starting with ES5 (2009), JavaScript has a *strict mode* that does just what it says, i.e. it disallows things that are considered too lenient. Among other things, strict mode:
 
-- removes legacy octal notation for numbers and octal escape sequences in strings,
-- restricts the use of `eval` and runs the evaluated code in an isolated environment,
-- restricts the use of `arguments` and disables `caller`/`callee` properties,
 - makes the `with` statement a syntax error,
 - forbids having multiple properties/arguments with the same name,
 - no longer coerces `this` to the global object if it is `null` or `undefined`.
